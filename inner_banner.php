@@ -1,5 +1,5 @@
 <!-- breadcrumb-area-start -->
-<div class="breadcrumb-area pt-5 pb-4" style="background-image:url(assets/img/bg/bg-7.jpg)">
+<div class="breadcrumb-area pt-5 pb-4" style="background-color: #f0f0f0;">
     <div class="container">
         <div class="row">
             <div class="col-xl-12">

@@ -63,7 +63,6 @@ body {
   color: #000!important;
 }
 
-
 .accordion-button {
   position: relative;
   display: flex;
@@ -85,7 +84,7 @@ body {
   }
 }
 .accordion-button:not(.collapsed) {
-  color: #0c63e4;
+  color: rgb(179, 111, 11);
   background-color: #e7f1ff;
   box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.125);
 }
@@ -114,9 +113,9 @@ body {
 }
 .accordion-button:focus {
   z-index: 3;
-  border-color: #86b7fe;
+  border-color: rgba(179, 111, 11, .50);
   outline: 0;
-  box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
+  box-shadow: 0 0 0 0.25rem rgba(179, 111, 11, 0.25);
 }
 
 .accordion-header {
@@ -333,10 +332,22 @@ ul {
   margin: 0px;
   padding: 0px;
 }
-
+ol li::before {
+  content: "➡";
+  padding-right: 10px;
+}
+ol {
+  /* margin-left: 0 !important; */
+  padding-left: 0 !important;
+}
+ol li {
+  list-style: none;
+  margin-bottom: 10px;
+}
 li {
   list-style: none;
 }
+
 
 p {
   font-size: 15px;
@@ -2621,7 +2632,7 @@ label {
   left: 0;
   -webkit-transition: width 0.3s ease;
   transition: width 0.3s ease;
-  background: #1876df;
+  background: #909090;
 }
 
 .btn-white {
@@ -2717,7 +2728,7 @@ label {
   left: 0;
   -webkit-transition: width 0.3s ease;
   transition: width 0.3s ease;
-  background: #1876df;
+  background: #696969;
 }
 
 .about-area {
@@ -2726,7 +2737,7 @@ label {
 }
 
 .about-text {
-  margin-top: 32px;
+  margin-top: 0;
 }
 .about-text > span {
   position: relative;
@@ -2778,8 +2789,12 @@ label {
 }
 .about-text a:hover {
   color: #b36f0b;
+  left: 0;
+  -webkit-transition: width 0.3s ease;
+  transition: width 0.3s ease;
+  background: #909090;
 }
-.about-text a::before {
+/* .about-text a::before {
   content: "";
   width: 0;
   height: 1px;
@@ -2790,12 +2805,13 @@ label {
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
   z-index: 99;
-}
-.about-text a:hover:before {
+} */
+/* .about-text a:hover::before {
   width: 100%;
-  left: 0;
+  left: 0%;
   -webkit-transition: width 0.3s ease;
   transition: width 0.3s ease;
+  background: #909090;
 }
 .about-text a::after {
   content: "";
@@ -2807,7 +2823,7 @@ label {
   background: #000;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
-}
+} */
 
 .about-us-img {
   position: relative;
@@ -3388,14 +3404,14 @@ label {
   font-size: 20px;
   font-family: "cerebri_sansbold";
   position: relative;
-  padding-bottom: 24px;
-  margin-bottom: 30px;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
 }
 .footer-title::before {
   position: absolute;
   height: 3px;
   width: 15px;
-  background: #fff;
+  background: #111;
   left: 0;
   content: "";
   bottom: 0;
@@ -3404,7 +3420,7 @@ label {
   position: absolute;
   height: 3px;
   width: 40px;
-  background: #fff;
+  background: #111;
   left: 25px;
   content: "";
   bottom: 0;
@@ -3474,7 +3490,7 @@ label {
 }
 .contact-address-icon i {
   font-size: 15px;
-  color: #a2a2a2;
+  color: #333;
   position: relative;
   top: -4px;
 }
@@ -3514,17 +3530,18 @@ label {
 }
 
 .footer-2-wrapper .footer-text p {
-  color: #b8b8b8;
+  color: #333;
+  /* color: #b8b8b8; */
   padding-right: 68px;
   margin-bottom: 30px;
 }
 
 .footer-2-wrapper .footer-title {
-  color: #ffffff;
+  color: #111;
 }
 
 .footer-2-wrapper .fotter-menu a {
-  color: white;
+  color: #333;
   /* color: #b8b8b8; */
   transition: 0.3s;
 }
@@ -3534,11 +3551,11 @@ label {
 }
 
 .footer-2-wrapper .footer-info p {
-  color: #b8b8b8;
+  color: #333;
 }
 
 .footer-2-wrapper .contact-address-text h4 {
-  color: #b8b8b8;
+  color: #333;
 }
 
 .footer-2-bottom {
@@ -7996,7 +8013,7 @@ ul.cat li a:hover {
   text-transform: capitalize;
   line-height: 1;
   font-family: 'EB Garamond', serif;
-  color: #ffffff;
+  color: #222;
 }
 
 .breadcrumb-menu li {
@@ -8019,7 +8036,7 @@ ul.cat li a:hover {
   padding-bottom: 0;
   position: absolute;
   top: 4px;
-  color: #ffffff;
+  color: #333;
   left: -7px;
 }
 
@@ -8028,7 +8045,7 @@ ul.cat li a:hover {
 }
 
 .breadcrumb-menu span {
-  color: #ffffff;
+  color: #333;
   font-size: 15px;
   font-family: "cerebri_sansregular";
   text-transform: capitalize;

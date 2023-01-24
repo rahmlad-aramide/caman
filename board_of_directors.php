@@ -17,11 +17,11 @@ include("inner_banner.php");
                 <tbody>
                     <tr>
                         <td>BRACON WIRE & CABLES NIGERIA LIMITED</td>
-                        <!-- <td></td> -->
+                        <td>MEMBER</td>
                     </tr>
                     <tr>
                         <td>COLEMAN WIRES AND CABLES</td>
-                        <!-- <td>Thornton</td> -->
+                        <td>MEMBER</td>
                     </tr>
                     <tr>
                         <td>COMESTAR MANUFACTURING COMPANY LIMITED</td>
@@ -29,15 +29,15 @@ include("inner_banner.php");
                     </tr>
                     <tr>
                         <td>CUTIX PLC</td>
-                        <!-- <td>VICE PRESIDENT </td> -->
+                        <td>MEMBER</td>
                     </tr>
                     <tr>
                         <td>DENKI WIRE AND CABLE</td>
-                        <!-- <td>VICE PRESIDENT </td> -->
+                        <td>VICE PRESIDENT </td>
                     </tr>
                     <tr>
                         <td>KABELMETAL NIGERIA PLC</td>
-                        <!-- <td>VICE PRESIDENT </td> -->
+                        <td>MEMBER</td>
                     </tr>
                     <tr>
                         <td>MICCOM CABLES & WIRES LIMITED</td>
@@ -49,7 +49,7 @@ include("inner_banner.php");
                     </tr>
                     <tr>
                         <td>PURECHEM MANUFACTURING LIMITED</td>
-                        <!-- <td>TREASURER </td> -->
+                        <td>MEMBER </td>
                     </tr>
                 </tbody>
             </table>

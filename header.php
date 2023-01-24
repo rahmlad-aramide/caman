@@ -34,43 +34,6 @@
 
         <!-- header-start -->
         <header>
-            <!-- <div class="header-top-area grey-bg d-none d-md-block">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xl-8 col-lg-8 col-md-6 d-flex align-items-center">
-                            <div class="header-info">
-                                <span><i class="far fa-map-marker-alt"> </i> 15 Hamston Street, West</span>
-                                <span class="header-ph"><i class="far fa-phone"> </i> 812 (345) 6789</span>
-                                <span class="header-en"><i class="far fa-envelope-open"></i> <a
-                                        href="http://bdevs.net/cdn-cgi/l/email-protection" class="__cf_email__"
-                                        data-cfemail="20535550504f525460474d41494c0e434f4d">[email&#160;protected]</a></span>
-                            </div>
-                        </div>
-                        <div class="col-xl-4 col-lg-4 col-md-6">
-                            <div class="header-right f-right ">
-                                <div class="header-lang  pos-rel f-right">
-                                    <div class="lang-icon">
-                                        <img src="assets/img/icon/flag.png" alt="">
-                                        <a href="#">English <i class="far fa-angle-down"></i></a>
-                                    </div>
-                                    <ul class="header-lang-list">
-                                        <li><a href="#">USA</a></li>
-                                        <li><a href="#">UK</a></li>
-                                        <li><a href="#">CA</a></li>
-                                        <li><a href="#">AU</a></li>
-                                    </ul>
-                                </div>
-                                <div class="header-icon f-right">
-                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                    <a href="#"><i class="fab fa-instagram"></i></a>
-                                    <a href="#"><i class="fab fa-youtube"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div> -->
             <div id="sticky-header" class="main-menu-area">
                 <div class="container">
                     <div class="row">
@@ -90,19 +53,13 @@
                                     <ul>
                                         <li class="active"><a href="index.php">home</a>
                                         </li>
-                                        <li><a href="about.php">Our Association</a>
+                                        <li><a href="#">About Us</a>
                                             <ul class="sub-menu text-left">
                                                 <li><a href="about.php">Our Association</a>
                                                 <li><a href="board_of_directors.php">Board of Trustees</a></li>
                                                 <li><a href="our-corporate-members.php">Our Members</a></li>
                                                 <li><a href="technical-committee.php">Technical Committee</a></li>
                                                 <li><a href="members.php">Be our member</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="it-services.php">News</a>
-                                            <ul class="sub-menu text-left">
-                                                <li><a href="">News From Our Members</a>
-                                                <li><a href="">Industry News</a></li>
                                             </ul>
                                         </li>
                                         <li><a href="#">Related Institution</a>
@@ -119,12 +76,7 @@
                                                 <li><a href="management-systems.php">Management Systems</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="#">Library</a>
-                                            <ul class="sub-menu text-left">
-                                                <li><a href="">Technical Articles</a></li>
-                                            </ul>
-                                        </li>
-                                        <li><a href="communication.php">Communication</a></li>
+                                        <li><a href="communication.php">Contact Us</a></li>
                                     </ul>
                                 </nav>
                             </div>

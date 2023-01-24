@@ -3,11 +3,21 @@ $title = 'Management Systems';
  include "header.php" ;
 include("inner_banner.php");
 ?>
+<style>
+    .bg-img {
+        background-image: url(manager.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        min-height: 400px;
+    }
+    
+</style>
 <main>
     <br><br>
     <div class="container">
-        <div class="row d">
-            <div class="accordion accordion-flush d-flex justify-content-center flex-column" id="accordionFlushExample">
+        <div class="row ">
+            <div class="col-xl-6 col-lg-6 col-md-6 col-12 mb-30 accordion accordion-flush d-flex justify-content-center flex-column" id="accordionFlushExample">
                 <div class="accordion-item">
                     <h2 class="accordion-header" id="flush-headingOne">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
@@ -142,6 +152,11 @@ include("inner_banner.php");
                             standard that describes the general requirements that must be met for a
                             laboratory to be recognized as competent to perform specific tests.</div>
                     </div>
+                </div>
+            </div>
+            <div class="bg-img col-xl-6 col-lg-6 col-md-6 col-12 mb-30">
+                <div class="about-img">
+                    <!-- <img src="management.jpg" alt="Management"> -->
                 </div>
             </div>
         </div>
