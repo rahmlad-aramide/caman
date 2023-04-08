@@ -20,11 +20,11 @@ include("inner_banner.php");
                         class="img-fluid"></a>
             </div>
             <div class="col-md-4 p-4">
-                <a href="https://cutixplc.com.ng/" target="_blank"><img src="assets/img/4.jpeg" alt=""
+                <a href="https://cutixplc.com.ng/" target="_blank"><img src="assets/img/cutix.jpg" alt=""
                         class="img-fluid"></a>
             </div>
             <div class="col-md-4 p-4">
-                <a href="https://denkiwire.com/new/" target="_blank"><img src="assets/img/denki.png" alt=""
+                <a href="https://denkiwire.com/new/" target="_blank"><img src="assets/img/denki.jpg" alt=""
                         class="img-fluid"></a>
             </div>
             <div class="col-md-4 p-4">
