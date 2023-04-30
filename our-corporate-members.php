@@ -51,10 +51,10 @@ include("inner_banner.php");
                 <a href="https://www.purechemmanufacturing.com/" target="_blank"><img src="assets/img/2.png" alt=""
                         class="img-fluid"></a>
             </div>
-
-
-
-
+            <div class="col-md-4 p-4" style="display:flex; justify-content: center;">
+                <a href="https://kwaliwireandcable.com.ng/" target="_blank"><img src="assets/img/kwali.jpg" alt=""
+                        class="img-fluid" style="height:10rem;"></a>
+            </div>
         </div>
         <br><br>
     </div>
