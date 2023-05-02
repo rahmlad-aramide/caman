@@ -35,6 +35,10 @@ include("inner_banner.php");
                 <a href="https://kabelmetal-nocaco.com/kabelmetal/" target="_blank"><img src="assets/img/kabelmetal.png"
                         alt="" class="img-fluid"></a>
             </div>
+            <div class="col-md-4 p-4" style="display:flex; justify-content: center;">
+                <a href="https://kwaliwireandcable.com.ng/" target="_blank"><img src="assets/img/kwali.jpg" alt=""
+                        class="img-fluid" style="height:10rem;"></a>
+            </div>
             <div class="col-md-4 p-4">
                 <a href="https://miccomcables.com/" target="_blank"><img src="assets/img/miccom.png" alt=""
                         class="img-fluid"></a>
@@ -50,10 +54,6 @@ include("inner_banner.php");
             <div class="col-md-4 p-4">
                 <a href="https://www.purechemmanufacturing.com/" target="_blank"><img src="assets/img/2.png" alt=""
                         class="img-fluid"></a>
-            </div>
-            <div class="col-md-4 p-4" style="display:flex; justify-content: center;">
-                <a href="https://kwaliwireandcable.com.ng/" target="_blank"><img src="assets/img/kwali.jpg" alt=""
-                        class="img-fluid" style="height:10rem;"></a>
             </div>
         </div>
         <br><br>

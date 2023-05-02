@@ -42,7 +42,7 @@
                                     <i class="far fa-phone"></i>
                                 </div>
                                 <div class="contact-address-text">
-                                    <h4>+812 (345) 778 88</h4>
+                                    <h4>+234 (0) 803 606 5258</h4>
                                 </div>
                             </li>
                             <li>

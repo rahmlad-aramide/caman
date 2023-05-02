@@ -33,7 +33,7 @@ include("inner_banner.php");
                     </tr>
                     <tr>
                         <td>DENKI WIRE AND CABLE</td>
-                        <td>VICE PRESIDENT </td>
+                        <td>MEMBER</td>
                     </tr>
                     <tr>
                         <td>KABELMETAL NIGERIA PLC</td>
