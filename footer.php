@@ -42,7 +42,7 @@
                                     <i class="far fa-phone"></i>
                                 </div>
                                 <div class="contact-address-text">
-                                    <h4>+234 (0) 803 606 5258</h4>
+                                    <h4> <a href="tel:+2348036065258">+234 (0) 803 606 5258</a></h4>
                                 </div>
                             </li>
                             <li>
@@ -50,7 +50,7 @@
                                     <i class="far fa-envelope-open"></i>
                                 </div>
                                 <div class="contact-address-text">
-                                    <h4><a href="" class="__cf_email__">email@caman.com</a>
+                                    <h4><a href="mailto:info@caman.com" class="__cf_email__">info@caman.com</a>
                                     </h4>
                                 </div>
                             </li>

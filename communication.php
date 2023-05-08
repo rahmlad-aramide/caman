@@ -19,8 +19,8 @@ include("inner_banner.php");
                 <h5 class="mb-3 style-title font-weight-bold">OUR CONTACT INFORMATION</h5>
                 <p class="contact_detail"><i class="far fa-map-marker-alt"></i> 28 HENRY CARR STREET, IKEJA,
                     INDUSTRIAL ESTATE, P.M.B. 21253, IKEJA, LAGOS, NIGERIA</p>
-                <p class="contact_detail"><i class="far fa-phone"></i> 0703000000 </p>
-                <p class="contact_detail"><i class="far fa-envelope-open"></i> info@camman</p>
+                <p class="contact_detail"><i class="far fa-phone"></i> <a href="tel:+2348036065258"> +234 (0) 803 606 5258 </a></p>
+                <p class="contact_detail"><i class="far fa-envelope-open"></i> <a href="mailto:info@caman.com"> info@caman.com </a></p>
             </div>
             <div class="col-md-8">
                 <h5 class="mb-3 style-title font-weight-bold">CONTACT FORM</h5>
